@@ -1,2 +1,2 @@
-Kernel: Linux version 4.14.209-positron-alpha/021975df (dereference23@github.com) (Proton clang version 12.0.0 (https://github.com/llvm/llvm-project f502b14d40e751fe00afc493ef0d08f196524886), LLD 12.0.0 (https://github.com/llvm/llvm-project f502b14d40e751fe00afc493ef0d08f196524886)) #1 SMP PREEMPT Tue Dec 8 17:42:38 UTC 2020
+Kernel: Linux version 4.14.231-Yuki-EagleWarrior+ (klozz@Katsumi-Beniko) (Yuki clang version 13.0.0 (https://github.com/llvm/llvm-project c88c46080a75467788b4379f49fc664061c2c6d0), LLD 13.0.0 (https://github.com/llvm/llvm-project 53673fd1bf6f2dd94d8bb6ced49cc54ec5fc866b)) #1 SMP PREEMPT Thu May 6 05:06:17 CDT 2021
 Python: Python 3.8.5

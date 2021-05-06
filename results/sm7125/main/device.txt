@@ -1,2 +1,2 @@
-Model: wcd937x Audio Codec AB IDP CURTANA
-Compatible: qcom,cust-atoll,
+Model: wcd937x Audio Codec AB IDP JOYEUSE;
+Compatible: qcom,cust-atoll;
